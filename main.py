@@ -9,7 +9,7 @@ class MainWindow(QMainWindow):
         super().__init__()
         self.setWindowTitle("Lot Size Calc")
         self.setGeometry(100, 250, 240, 225)
-        self.setFixedSize(240, 225)
+        # self.setFixedSize(240, 225)
 
         # Tambahkan widget utama ke jendela utama
         main_widget = QWidget()
