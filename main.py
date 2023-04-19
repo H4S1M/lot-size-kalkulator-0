@@ -3,7 +3,7 @@ from PyQt5.QtGui import QFont
 from PyQt5.QtCore import Qt
 import sys
 
-# test 12334
+# test 12334567
 
 # Fungsi kelas utama yang QMainWindow
 class MainWindow(QMainWindow):
